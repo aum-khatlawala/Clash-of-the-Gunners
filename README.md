@@ -21,4 +21,4 @@
 ### 18. e => activates the archer queen's eagle arrow
     
 ## For now, I have kept a few games stored as dictionaries in replay.txt. These can be used either for testing or can be safely ignored.
-## To replay the i^th match, enter the i^th game number as input when prompted after running replay.py
+## To replay the $i^{th}$ match, enter the $i^{th}$ game number as input when prompted after running replay.py
